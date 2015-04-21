@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{f671be1c-7023-4346-975a-7afe781aeab7}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{18ad0a95-b4e0-40c5-bbba-82443847944d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7008a3bb-f290-4444-8b8b-db3e1fa3f7ab}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stackm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="undoredo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Dlg.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stackm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="undoredo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Dlg.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+    <None Include="res\PaintIcon.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\LoadIcon1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\SaveIcon1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\QuitIcon4.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Square.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Rectangle.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Circle.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Ellipse.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Line.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Pen.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Triangle.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Delete.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Paint.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Pick.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Circle.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Ellipse.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Eraser.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Line.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Move.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Paint.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Pencil.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Rectangle.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Square.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Triangle.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Arrow.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Arrow.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ClsIcon.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\UndoIcon.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\colorBar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\RedoIcon.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

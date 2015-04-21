@@ -1,0 +1,13 @@
+
+
+Dlg 4
+Serialization
+//!!5
+//!!6
+//!!7
+
+
+Dlg 5
+//!!8 b
+  Pick Color
+  CheckBox (isThin variable)
